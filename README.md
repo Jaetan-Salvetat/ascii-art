@@ -1,1 +1,7 @@
-Projet de groupe, fait en Bachelor 1
+# Ascii Art
+
+### Réalisé par: 
+ - Gaëtan Salvi
+ - Cyril Hansse
+
+---

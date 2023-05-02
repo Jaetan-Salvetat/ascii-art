@@ -1,0 +1,9 @@
+# Output files
+
+*.txt
+!typo/*.txt
+
+# Environment files
+
+.idea
+.vscode
